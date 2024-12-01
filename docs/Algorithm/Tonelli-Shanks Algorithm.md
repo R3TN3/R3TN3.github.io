@@ -2,6 +2,7 @@
 title: Tonelli-Shanks Algorithm
 parent: algorithm
 nav_order: 2
+math: katex
 ---
 
 # Tonelli-Shanks Algorithm
