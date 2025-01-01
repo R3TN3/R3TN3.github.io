@@ -1,6 +1,6 @@
 ---
 title: Tonelli-Shanks Algorithm
-parent: algorithm
+parent: Algorithm
 nav_order: 1
 ---
 
