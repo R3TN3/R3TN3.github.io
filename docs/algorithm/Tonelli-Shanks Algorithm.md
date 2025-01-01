@@ -3,7 +3,7 @@ layout: default
 title: Tonelli-Shanks Algorithm
 grand_parent: crypto
 parent: algorithm
-nav_order: 4
+nav_order: 1
 permalink: '4'
 ---
 

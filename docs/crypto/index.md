@@ -5,4 +5,5 @@ nav_order: 2
 permalink: '3'
 ---
 
-Crypto
+# Crypto
+This is Crypto page.
