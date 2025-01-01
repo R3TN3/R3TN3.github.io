@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Tonelli-Shanks Algorithm
 parent: algorithm
 nav_order: 1
@@ -10,7 +9,7 @@ nav_order: 1
 
 토넬리-샹크스 알고리즘
 
-## Table of contents
+## contents
 {: .no_toc .text-delta }
 
 1. TOC

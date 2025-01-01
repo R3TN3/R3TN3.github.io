@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Crypto
 nav_order: 2
 ---
