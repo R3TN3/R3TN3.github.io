@@ -2,7 +2,6 @@
 layout: default
 title: About ME
 nav_order: 4
-permalink: '1'
 ---
 
 # About ME
