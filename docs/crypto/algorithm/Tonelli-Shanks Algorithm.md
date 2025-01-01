@@ -1,11 +1,10 @@
 ---
 layout: default
 title: Tonelli-Shanks Algorithm
-has_children: false
 grand_parent: crypto
 parent: algorithm
-nav_order: 3
-permalink: '10'
+nav_order: 4
+permalink: '4'
 ---
 
 # Tonelli-Shanks Algorithm
