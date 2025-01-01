@@ -5,7 +5,7 @@ has_children: false
 grand_parent: crypto
 parent: algorithm
 nav_order: 3
-permalink: '1'
+permalink: '10'
 ---
 
 # Tonelli-Shanks Algorithm
