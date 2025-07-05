@@ -26,20 +26,8 @@ nav_order: 1
 시그니처는 보통 헤더(Header), 푸터(Footer)로 구성된다.
 
 ## 파일 시그니처 모음
-| Length	 | Header Signature(Hex)	 | File Type	 | Description	 |
-|:---------	 |:------------------------------|:-------------------|:--------------------|
-| 4	 | FF D8 FF E0		 | JPG		 | 		 |
 
+| Length | Header Signature(Hex)    | Footer Signature(Hex)     | File Type | Description |
+| :------ | :--------------------------- | :-------------------------  | :--------- | :----------- |
+| 8       | 89 50 4E 47 0D 0A 1A 0A | 49 45 4E 44 AE 42 60 82 | PNG       |               |
 
-| Length | Header Signature(Hex) | File Type | Description |
-|:--------|:-------------------------|:-----------|:-------------|
-| 4       | FF D8 FF E0               | JPG        |                |
-
-
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
