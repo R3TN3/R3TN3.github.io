@@ -20,7 +20,7 @@ PNG 파일 시그니처
 ## PNG 파일 시그니처(File Signatures)
 크기가 1x1 픽셀인 png 파일을 만들어 png 파일의 파일 시그니처를 확인한다.
 
-![](../../assets/images/forensic/img/1x1png.png)
+![](../../assets/images/forensic/1x1png.png)
 
 
 
