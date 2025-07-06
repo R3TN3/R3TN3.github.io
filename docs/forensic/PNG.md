@@ -20,7 +20,7 @@ PNG 파일 시그니처
 ## PNG 파일 시그니처(File Signatures)
 크기가 1x1 픽셀인 png 파일을 만들어 png 파일의 파일 시그니처를 확인한다.
 
-{% include lazyload.html image_src= https://github.com/R3TN3/R3TN3.github.io/tree/main/pictures/1x1png.png %}
+{% include lazyload.html image_src= docs/forensic/img/1x1png.png %}
 
 
 
