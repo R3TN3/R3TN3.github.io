@@ -27,7 +27,7 @@ nav_order: 1
 
 ## 파일 시그니처 모음
 
-| Length | Header Signature(Hex)    | Footer Signature(Hex)     | File Type | Description |
-| :------ | :--------------------------- | :-------------------------  | :--------- | :----------- |
-| 8       | 89 50 4E 47 0D 0A 1A 0A | 49 45 4E 44 AE 42 60 82 | PNG       |               |
+| Length | Header Signature(Hex)    | Footer Signature(Hex)     | File Type | Description        |
+| :------ | :--------------------------- | :-------------------------  | :--------- | :----------------- |
+| 8       | 89 50 4E 47 0D 0A 1A 0A | 49 45 4E 44 AE 42 60 82 | PNG       | 89 50 4E -> PNG |
 
